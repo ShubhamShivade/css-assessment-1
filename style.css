@@ -1,0 +1,34 @@
+h1{
+    color: red;
+}
+hr{
+    color: rgb(226, 226, 226);
+}
+.italic{
+    font-size: 20px;
+    color: rgb(238, 53, 53);
+    font-weight: 600;
+}
+#list1{
+    color:rgb(153, 30, 30);
+    line-height: 3;
+    font-weight: 500;
+}
+.list2{
+    color:rgb(153, 30, 30);
+    letter-spacing: 5px;
+    
+}
+
+.para{
+    color: rgb(146, 94, 94);
+}
+.prep{
+    background-color: yellow;
+    font-style: italic;
+    color: rgb(238, 53, 53);
+}
+m{
+    background-color: yellow;
+    font-weight: bold;
+}
